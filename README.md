@@ -129,9 +129,9 @@ If you like this project, please consider giving it a star on GitHub.
 
 ## 👨‍💻 Author
 
-**Sonu**
+**Rajeev Kumar Goyal**
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/goyalrajeev178-web
 
 ---
 
